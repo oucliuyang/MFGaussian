@@ -1,4 +1,4 @@
 # MFGaussian
 MFGaussian: Multi-modal Data Fusion based 3D Gaussian Splatting for Accurate and Robust Scene Representation.
 
-The source code of the paper will be released soonly.
+Our paper is currently undergoing peer review. The code, dataset, and application will be released once the paper is accepted.
